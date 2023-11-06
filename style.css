@@ -1,0 +1,32 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+
+
+
+.navbar{
+  background-color:green;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:20px;
+  text-decoration:none;
+
+}
+
+.container-2{
+  background-color: ;
+  justify-content:center;
+  align-items:center;
+  padding:30px;
+  margin:10px;
+}
+
+.text1{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
